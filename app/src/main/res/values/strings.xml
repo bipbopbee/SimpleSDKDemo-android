@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleSDKDemo</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_publisher">PublisherActivity</string>
+    <string name="no_permission_tips">请开启相应的权限</string>
+</resources>
